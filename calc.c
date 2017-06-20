@@ -1,3 +1,10 @@
+//////////////////////////////////////
+// File Name       : calc.c
+// Creation Date   : 2016/5/1
+//
+// Copyright(c) 2016 banban All right reserved.
+//////////////////////////////////////
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
